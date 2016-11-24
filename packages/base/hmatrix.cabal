@@ -50,6 +50,7 @@ library
                         Numeric.LinearAlgebra.Data
                         Numeric.LinearAlgebra.HMatrix
                         Numeric.LinearAlgebra.Static
+                        Internal.Vector
 
     other-modules:      Internal.Vector
                         Internal.Devel
